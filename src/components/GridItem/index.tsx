@@ -1,4 +1,4 @@
-import { GridItemType } from "../../types/GridItem";
+import { GridItemType } from "../../@types/GridItem";
 import { Container, Icon } from "./styles";
 
 import b7Img from '../../assets/b7.svg'
